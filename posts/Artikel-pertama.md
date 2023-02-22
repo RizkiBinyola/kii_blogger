@@ -11,13 +11,6 @@ date: "20-02-2023"
 - UI frameworks : Tailwind CSS
 - Analytics :Google Analytics
 - Miscellaneous : Webpack , Module Federation (50% sure)
-   
 
-
-# Untuk apa blog ini?
-Blog ini dibuat untuk source pembelajaran saya mengenai dunia programing
-Serta untuk sumber dari hasil pembelajaran saya
-
-Thanks You 😄
 
 > [Baca artikel lainnya ....](/).
