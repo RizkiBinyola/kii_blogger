@@ -4,6 +4,8 @@ subtitle: "React JS merupakan salah satu framework JavaScript yang sangat popule
 date: "21-02-2023"
 ---
 
+![images/reactjs.png](/images/reactjs.png)
+
 
 # Pengenalan dan Konsep Dasar
 React JS merupakan salah satu framework JavaScript yang sangat populer dan digunakan secara luas di industri teknologi. React JS dikenal sebagai salah satu framework terbaik untuk membangun aplikasi web modern, terutama pada bagian tampilan (front-end). Framework ini dikembangkan oleh Facebook dan dirilis secara resmi pada tahun 2013.
