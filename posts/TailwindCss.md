@@ -58,7 +58,7 @@ Setelah langkah-langkah sebelumnya selesai, Anda dapat mulai menggunakan class u
 Contoh penggunaan Tailwind CSS
 Berikut adalah contoh penggunaan Tailwind CSS untuk membuat tampilan sederhana:
 
-<html>
+
     <head>
         <meta charset="UTF-8">
         <title>Tailwind CSS Example</title>
@@ -71,5 +71,5 @@ Berikut adalah contoh penggunaan Tailwind CSS untuk membuat tampilan sederhana:
         <h1 class="text-2xl font-bold mb-4">Hello, Tailwind CSS!</h1>
         <p class="text-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend aliquet augue, a dignissim neque convallis vel. Maecenas id interdum nulla, eu posuere elit. Integer fermentum enim nec nulla dapibus rhoncus. Sed varius, magna vel aliquam commodo, tortor magna euismod nulla, ac bibendum lorem est sit amet tur</p>
     </body>
- </html
+
 
