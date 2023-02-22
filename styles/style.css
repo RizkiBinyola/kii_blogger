@@ -1,0 +1,28 @@
+@keyframes marquee {
+    0% {
+      margin-left: 100%;
+      transform: translateX(0%);
+    }
+    100% {
+      margin-left: 0;
+      transform: translateX(-100%);
+    }
+  }
+  
+  .section {
+    overflow: hidden;
+  }
+
+
+  .marquee {
+    animation: marquee 10s linear infinite;
+    display: inline-block;
+    white-space: nowrap;
+
+}
+  .text-styling {
+    margin-top: 10px;
+    color: white;
+    padding: 1em;
+  }
+  
